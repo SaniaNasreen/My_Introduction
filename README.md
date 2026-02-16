@@ -1,12 +1,12 @@
 # My_Introduction
-👋 Hi, I’m Sania!
+👋 Hi, I’m **Sania Nasreen**!
 
 🎓 I’m a Computer Science Engineering student passionate about building useful, user-friendly technology.
 💻 I enjoy working on projects that combine problem-solving, creativity, and real-world impact.
 🚀 Currently focused on improving my skills in software development and exploring new technologies.
 
 
-🧠 #**About Me**
+🧠 **About Me**
 
 🎯 Interested in: Software Development, Web Development, and Problem Solving
 
@@ -17,7 +17,7 @@
 🌱 Goal: To grow into a skilled engineer who builds meaningful products
 
 
-🛠️ #**Tech Stack**
+🛠️ **Tech Stack**
 
 Languages:
 Java • Python • C/C++ • JavaScript
@@ -29,7 +29,7 @@ Core Concepts:
 Data Structures • OOP • DBMS • Operating Systems
 
 
-📌 #**What You’ll Find Here**
+📌 **What You’ll Find Here**
 
 This repository is a snapshot of:
 
