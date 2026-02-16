@@ -5,7 +5,8 @@
 💻 I enjoy working on projects that combine problem-solving, creativity, and real-world impact.
 🚀 Currently focused on improving my skills in software development and exploring new technologies.
 
-🧠 About Me
+
+🧠 #**About Me**
 
 🎯 Interested in: Software Development, Web Development, and Problem Solving
 
@@ -15,7 +16,8 @@
 
 🌱 Goal: To grow into a skilled engineer who builds meaningful products
 
-🛠️ Tech Stack
+
+🛠️ #**Tech Stack**
 
 Languages:
 Java • Python • C/C++ • JavaScript
@@ -26,7 +28,8 @@ HTML • CSS • Git • GitHub • VS Code
 Core Concepts:
 Data Structures • OOP • DBMS • Operating Systems
 
-📌 What You’ll Find Here
+
+📌 #**What You’ll Find Here**
 
 This repository is a snapshot of:
 
@@ -36,7 +39,8 @@ This repository is a snapshot of:
 
 📖 Learning notes and resources
 
-📫 Let’s Connect
+
+📫 **Let’s Connect**
 
 💼 LinkedIn: www.linkedin.com/in/sania-nasreen-
 📧 Email: sania2pari@gmail.com
